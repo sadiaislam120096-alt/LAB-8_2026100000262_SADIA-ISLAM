@@ -13,4 +13,4 @@ Repository, commit, Branch, Pull request and Issues.
 ** What are the stage of Git/GitHub? 
 Working directory->Staging area->Local repository->Remote repository.
 ##Reference 
-[Markdown Guide] (https
+[Markdown Guide] (https://www.markdownguide.org/cheat-sheet/)
